@@ -18,13 +18,8 @@ Whisper, a state-of-the-art automatic speech recognition (ASR) model, will be yo
 - **🚀 Streamlit: The User-Friendly Interface**
 Streamlit is the secret sauce that ties it all together. With its user-friendly interface design, you can effortlessly create a visually appealing front end for your YouTube Video Summarization App. We'll guide you through building an intuitive interface that allows users to interact with your app easily.
 
-## 🌟Implementation Guide:
-[Demo ▶️](https://www.youtube.com/watch?v=K9mDAb2Lz6Y)
 
-## 🔗Other Links:
-- Haystack: https://haystack.deepset.ai/
-- Llama 2 32K Model: https://huggingface.co/togethercomputer/LLaMA-2-7B-32K
-- Llama 2 32K GGUF Model: 32K-Instruct-GGUF🦌
+
 
 
  ---
